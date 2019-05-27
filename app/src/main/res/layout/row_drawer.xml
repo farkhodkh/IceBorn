@@ -1,0 +1,17 @@
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffb74d"
+   >
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/carbon_toolbarHeight"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/carbon_padding"
+        android:paddingRight="@dimen/carbon_padding" />
+
+</LinearLayout>

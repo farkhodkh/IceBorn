@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IceBorn</string>
+    <string-array name="fragmentsTitles">
+        <item>Континент</item>
+        <item>Страна</item>
+        <item>Оператор</item>
+        <item>IP адрес</item>
+    </string-array>
+    <string-array name="continents">
+        <item>AF</item>
+        <item>AS</item>
+        <item>EU</item>
+        <item>NA</item>
+        <item>SA</item>
+        <item>OC</item>
+    </string-array>
+</resources>
